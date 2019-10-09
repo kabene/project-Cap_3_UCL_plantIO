@@ -6,7 +6,7 @@ import telegram.TelegramMessageListener;
 public class TelegramListener {
     public static TelegramClient client = null;
     public static String name = "lsinf1102_p3_CAP_04_bot";
-    public static String path = "486857440:AAEIydNKID7_HMT8pDC3jEcaPP9mmHIfVu0";
+    public static String path = "/* here put your API token */";
     public static String group = "-266642788";
     
     /*
