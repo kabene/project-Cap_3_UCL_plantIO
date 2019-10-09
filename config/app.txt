@@ -1,0 +1,4 @@
+bamboo=true
+cactus=false
+orchidea=false
+rose=false
